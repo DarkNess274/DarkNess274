@@ -6,7 +6,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
-<h3> <img src="https://giphy.com/embed/LJk4aL47wYedoR15pK" width="480"> A little more about me...  </h3>
+<h3> A little more about me...  </h3>
 
 ```javascript
 const thai = {
@@ -23,7 +23,7 @@ const thai = {
 }
 ```
 
-<img src="![meguminn](https://github.com/DarkNess274/DarkNess274/assets/158103742/95c432fe-f6b4-4140-a120-3aea95433d3f)" width="60"> <em><b>I love anime, CHAT GPT</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I love anime, CHAT GPT</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
