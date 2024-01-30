@@ -23,8 +23,7 @@ const thai = {
 }
 ```
 
-<img src="![meguminn](https://github.com/DarkNess274/DarkNess274/assets/158103742/95c432fe-f6b4-4140-a120-3aea95433d3f)" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="![meguminn](https://github.com/DarkNess274/DarkNess274/assets/158103742/95c432fe-f6b4-4140-a120-3aea95433d3f)" width="60"> <em><b>I love anime, CHAT GPT</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Th
