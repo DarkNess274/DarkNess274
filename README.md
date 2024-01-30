@@ -1,4 +1,4 @@
-<h2> Hi, I'm Juan Salazar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Juan Salazar! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Senati_Per%C3%BA_logo.svg/1200px-Senati_Per%C3%BA_logo.svg.png" width="50"></h2>
 
 
 [![Twitter: Juan Salazar](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
