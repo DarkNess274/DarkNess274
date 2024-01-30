@@ -19,7 +19,7 @@ const thai = {
 }
 ```
 
-<em><b>I love ANIME, CHAT GPT And programming... so-so</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I love ANIME, CHAT GPT And PROGRAMMING... SO-SO</b> ,so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 ![meguminn](https://github.com/DarkNess274/DarkNess274/assets/158103742/b4162ce3-9d69-44ed-b181-cce4c9d5a423) 
 
 ---
