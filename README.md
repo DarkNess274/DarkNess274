@@ -6,7 +6,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
-<h3> <img src="https://giphy.com/embed/LJk4aL47wYedoR15pK" width="480" height="464" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LJk4aL47wYedoR15pK">via GIPHY</a></p> A little more about me...  </h3>
+<h3> <img src="https://giphy.com/embed/LJk4aL47wYedoR15pK" width="480"> A little more about me...  </h3>
 
 ```javascript
 const thai = {
