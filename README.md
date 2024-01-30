@@ -11,20 +11,16 @@
 ```javascript
 const thai = {
   pronouns: "Esto" | "Eso",
-  code: [HTML, CSS, Python],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [HTML, CSS, Python, JavaScript],
   techCommunities: {
-                        coorganizer: "AfroPython",
                         speaker: "Latinity",
-                        mentor: "RailsGirls POA"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the challenge of working in a company"
 }
 ```
 
-<em><b>I love anime, CHAT GPT</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-![meguminn](https://github.com/DarkNess274/DarkNess274/assets/158103742/b4162ce3-9d69-44ed-b181-cce4c9d5a423) width="60"
+<em><b>I love ANIME, CHAT GPT</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+![meguminn](https://github.com/DarkNess274/DarkNess274/assets/158103742/b4162ce3-9d69-44ed-b181-cce4c9d5a423) 
 
 ---
 
